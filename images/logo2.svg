@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 500 500">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToGuides" value="0"/>
+<vectornator:setting key="ShowGrid" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+</metadata>
+<defs/>
+<g id="Calque 4" vectornator:layerName="Calque 4">
+<path d="M429.336+282.919C429.336+265.651+444.345+251.651+462.859+251.651C481.373+251.651+496.382+265.651+496.382+282.919C496.382+300.188+481.373+314.188+462.859+314.188C444.345+314.188+429.336+300.188+429.336+282.919Z" opacity="1" fill="#4f4f4f"/>
+<path d="M446.725+279.076C446.725+287.03+435.268+306.327+446.725+310.895C470.501+320.373+494.222+306.107+496.252+282.772C482.7+292.158+464.666+295.83+446.725+279.076Z" opacity="1" fill="#4f4f4f"/>
+<path d="M162.896+118.829C162.896+118.829+148.078+22.1159+167.436+14.9959C186.795+7.87581+241.928+98.3669+241.928+98.3669" opacity="1" fill="#4f4f4f"/>
+<path d="M184.892+96.7509C184.892+96.7509+170.479+48.6576+180.312+45.0411C190.144+41.4247+216.849+92.9699+216.849+92.9699" opacity="1" fill="#4f4f4f"/>
+<path d="M393.171+131.133C393.171+131.133+411.115+14.0203+387.673+5.39845C364.231-3.22345+299.237+99.8621+299.237+99.8621" opacity="1" fill="#4f4f4f"/>
+<path d="M367.602+108.668C367.602+108.668+385.056+50.4298+373.149+46.0505C361.242+41.6713+332.495+96.6921+332.495+96.6921" opacity="1" fill="#4f4f4f"/>
+<path d="M115.214+156.755C115.214+156.755+115.214+93.1168+181.983+93.1168C215.367+93.1168+382.287+93.1168+382.287+93.1168C382.287+93.1168+451.206+93.3253+449.056+156.755C446.905+220.186+448.992+361.38+448.992+361.38L115.214+347.671L115.214+156.755Z" opacity="1" fill="#4f4f4f"/>
+</g>
+<g id="Calque 7" vectornator:layerName="Calque 7">
+<path stroke="#000000" stroke-width="2" d="M419.641+287.767C419.641+270.498+434.649+256.499+453.164+256.499C471.678+256.499+486.686+270.498+486.686+287.767C486.686+305.036+471.678+319.035+453.164+319.035C434.649+319.035+419.641+305.036+419.641+287.767Z" fill="#bcf2ff" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path d="M437.03+283.923C437.03+291.878+425.572+311.175+437.03+315.743C460.806+325.221+484.527+310.954+486.556+287.62C473.005+297.005+454.971+300.677+437.03+283.923Z" fill-opacity="0.294643" fill="#5c4798" opacity="1"/>
+</g>
+<g id="Oreilles " vectornator:layerName="Oreilles ">
+<path stroke="#000000" stroke-width="3" d="M150.116+121.473C150.116+121.473+135.298+24.7601+154.656+17.6401C174.014+10.52+229.148+101.011+229.148+101.011" fill="#bcf2ff" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#630058" stroke-width="1" d="M171.231+102.921C171.231+102.921+156.817+54.8274+166.65+51.211C176.482+47.5945+203.188+99.1398+203.188+99.1398" fill="#ffcaed" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="3" d="M381.272+135.98C381.272+135.98+399.216+18.8681+375.774+10.2462C352.332+1.62428+287.338+104.71+287.338+104.71" fill="#bcf2ff" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#630058" stroke-width="1" d="M355.703+113.515C355.703+113.515+373.157+55.2775+361.25+50.8982C349.343+46.519+320.597+101.54+320.597+101.54" fill="#ffcaed" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="Ombre oreilles" vectornator:layerName="Ombre oreilles">
+<path d="M373.469+9.75C348.344+7.95787+287.344+104.719+287.344+104.719C287.344+104.719+308.53+106.329+310.95+99.3525C317.86+79.4355+347.437+39.8374+352.722+36.7888C367.067+28.5124+349.841+103.784+335.573+107.582L381.281+135.969C381.281+135.969+399.223+18.8719+375.781+10.25C375.049+9.98057+374.279+9.80781+373.469+9.75Z" fill-opacity="0.294643" fill="#5c4798" opacity="1"/>
+<path d="M157.765+17.2744C177.636+15.753+225.882+97.8968+225.882+97.8968C225.882+97.8968+210.487+105.347+208.573+99.4242C203.108+82.5159+178.353+42.8166+174.174+40.2286C162.828+33.2025+176.452+97.103+187.737+100.328L151.586+124.426C151.586+124.426+137.395+25.0183+155.936+17.6989C156.515+17.4701+157.124+17.3235+157.765+17.2744Z" fill-opacity="0.294643" fill="#5c4798" opacity="1"/>
+</g>
+<g id="Calque 3" vectornator:layerName="Calque 3">
+<path stroke="#000000" stroke-width="3" d="M103.315+161.603C103.315+161.603+103.315+97.9645+170.084+97.9645C203.468+97.9645+370.388+97.9645+370.388+97.9645C370.388+97.9645+439.307+98.173+437.157+161.603C435.006+225.033+437.093+366.228+437.093+366.228L103.315+352.519L103.315+161.603Z" fill="#bcf2ff" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="Calque 7_2" vectornator:layerName="Calque 7">
+<path d="M271.094+97.6183C271.094+97.6183+346.322+100.281+371.146+163.936C395.969+227.592+370.388+352.24+370.388+352.24L436.56+352.519C436.56+352.519+437.157+227.166+437.157+161.603C437.157+161.603+437.157+97.9645+370.388+97.9645C325.609+97.9645+271.094+97.6183+271.094+97.6183Z" fill-opacity="0.294643" fill="#5c4798" opacity="1"/>
+<path d="M203.468+97.9645C203.468+97.9645+155.934+101.937+132.896+159.502C117.888+197.001+133.235+243.883+133.235+243.883L103.583+244.008C103.583+244.008+103.315+187.836+103.315+158.456C103.315+158.456+103.993+126.185+131.06+107.098C149.22+94.2928+203.468+97.9645+203.468+97.9645Z" fill-opacity="0.294643" fill="#5c4798" opacity="1"/>
+</g>
+<g id="Calque 5" vectornator:layerName="Calque 5">
+<path stroke="#630058" stroke-width="1" d="M270.236+145.693C270.236+136.907+277.709+129.784+286.928+129.784C296.147+129.784+303.62+136.907+303.62+145.693C303.62+154.48+296.147+161.603+286.928+161.603C277.709+161.603+270.236+154.48+270.236+145.693Z" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#630058" stroke-width="1" d="M170.084+145.693C170.084+136.907+177.557+129.784+186.776+129.784C195.994+129.784+203.468+136.907+203.468+145.693C203.468+154.48+195.994+161.603+186.776+161.603C177.557+161.603+170.084+154.48+170.084+145.693Z" fill="#000000" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path d="M285.424+142.751C285.424+138.757+288.953+135.52+293.307+135.52C297.662+135.52+301.191+138.757+301.191+142.751C301.191+146.745+297.662+149.982+293.307+149.982C288.953+149.982+285.424+146.745+285.424+142.751Z" opacity="1" fill="#ffffff"/>
+<path d="M277.847+149.947C277.847+148.276+279.355+146.922+281.215+146.922C283.075+146.922+284.583+148.276+284.583+149.947C284.583+151.618+283.075+152.973+281.215+152.973C279.355+152.973+277.847+151.618+277.847+149.947Z" opacity="1" fill="#ffffff"/>
+<path d="M183.635+142.22C183.635+138.226+187.165+134.988+191.519+134.988C195.873+134.988+199.402+138.226+199.402+142.22C199.402+146.213+195.873+149.451+191.519+149.451C187.165+149.451+183.635+146.213+183.635+142.22Z" opacity="1" fill="#ffffff"/>
+<path d="M176.541+150.496C176.541+148.825+178.049+147.471+179.909+147.471C181.77+147.471+183.278+148.825+183.278+150.496C183.278+152.167+181.77+153.522+179.909+153.522C178.049+153.522+176.541+152.167+176.541+150.496Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Calque 6" vectornator:layerName="Calque 6">
+<text x="0" font-family="AvenirNext-Medium" y="0" text-anchor="middle" vectornator:text="3" fill="#000000" font-size="44" vectornator:width="44.65" opacity="1" transform="matrix(0.00785591 0.883838 -0.927304 0.00748768 264.818 160.723)">
+<tspan x="22.325" y="44" textLength="28.7391">
+3</tspan>
+</text>
+</g>
+<g id="Calque 2" vectornator:layerName="Calque 2">
+<path stroke="#000000" stroke-width="3" d="M369.42+479.564C369.42+479.564+396.712+452.683+431.927+407.478C431.927+407.478+458.171+376.274+458.378+362.476C458.584+348.679+369.42+352.286+369.42+352.286" fill="#909090" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2" d="M370.597+447.977L437.206+369.293L370.388+370.5" fill="#bababa" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.01" d="M364.141+435.46L422.893+369.987" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.01" d="M363.441+418.765L406.645+369.86" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.01" d="M361.352+403.406L392.326+370.365" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.2" d="M369.753+381.829L427.314+381.394" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="bevel"/>
+<path stroke="#000000" stroke-width="2.2" d="M363.038+395.64L415.105+395.204" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="bevel"/>
+<path stroke="#000000" stroke-width="2.2" d="M357.738+407.995L405.12+407.559" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="bevel"/>
+<path stroke="#000000" stroke-width="2.2" d="M348.442+424.65L390.874+424.215" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="bevel"/>
+</g>
+<g id="Calque 1" vectornator:layerName="Calque 1">
+<path stroke="#000000" stroke-width="3" d="M34.7645+450.556C1.38041+450.556+1.38041+483.087+34.7645+483.087C118.641+483.087+301.838+483.087+368.606+483.087C401.99+483.087+401.99+450.556+368.606+450.556C284.38+450.556+34.7645+450.556+34.7645+450.556L368.606+450.556L368.81+216L36+216C36+216+34.7645+377.638+34.7645+450.556Z" fill="#757575" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+<g id="Calque 3_2" vectornator:layerName="Calque 3">
+<text x="0" font-family="Rockwell-Regular" y="0" text-anchor="middle" vectornator:text="" fill="#b1b1b1" font-size="8" vectornator:width="20" opacity="1" transform="matrix(1 0 0 1 78.5135 235.653)"/>
+<text vectornator:shadowColor="#202020" x="0" vectornator:shadowOffset="5.08929" font-family="Kefa-Regular" fill="#b1b1b1" font-size="83" transform="matrix(1 0 0 1 78.5009 207.845)" opacity="1" vectornator:shadowAngle="-0.863924" vectornator:shadowRadius="0" text-anchor="middle" y="0" vectornator:width="245.52" vectornator:text="&#xA;T@C" vectornator:shadowOpacity="1">
+<tspan x="138.275" y="64" textLength="31.0291">
+
+</tspan>
+<tspan x="122.76" y="164" textLength="194.652">
+T@C</tspan>
+</text>
+<text x="0" font-family="Courier" y="0" text-anchor="middle" vectornator:text="Texte" fill="#b1b1b1" font-size="43" vectornator:width="20" opacity="1" transform="matrix(1 0 0 1 396.365 284.716)"/>
+</g>
+</svg>

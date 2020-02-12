@@ -1,0 +1,4 @@
+bugs à résoudre:
+
+-Quand une image porte un nom avec des espaces, risque de bug dans son affichage
+-Vérifier connexion et inscription
